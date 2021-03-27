@@ -1,0 +1,2 @@
+data/img/frame3.jpg
+data/img/frame7.jpg
